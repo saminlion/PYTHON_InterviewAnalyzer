@@ -27,8 +27,6 @@ You can check your version:
 ```sh
 python --version
 ```
-If you don’t have Python 3.11, download it here.
-
 
 ### 1. Clone the Repository
 
@@ -80,6 +78,7 @@ The .exe will appear in the dist folder.
 ```
 
 .gitignore Example
+```sh
 gitignore
 .vscode/
 __pycache__/
@@ -96,6 +95,7 @@ transcript/
 .cache/
 *.log
 *.tmp
+```
 License
 MIT License
 
