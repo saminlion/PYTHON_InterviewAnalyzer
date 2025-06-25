@@ -179,3 +179,9 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+/.history
+*.mp3
+/main.dist
+/transcript
+*.mp4
+*.exe

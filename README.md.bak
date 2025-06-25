@@ -27,8 +27,6 @@ You can check your version:
 ```sh
 python --version
 ```
-If you don’t have Python 3.11, download it here.
-
 
 ### 1. Clone the Repository
 

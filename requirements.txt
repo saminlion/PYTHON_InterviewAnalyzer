@@ -1,0 +1,11 @@
+# requirements.txt에서 torch는 제외!
+moviepy
+openai-whisper
+pydub
+flet
+# torch는 별도로 아래 명령어로 설치하세요:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+# 혹은 아래 줄의 주석 해제 후 설치 (파이썬, CUDA 버전별로 맞게 변경!)
+# torch @ https://download.pytorch.org/whl/cu121/torch-2.3.0%2Bcu121-cp311-cp311-win_amd64.whl
+# torchvision @ https://download.pytorch.org/whl/cu121/torchvision-0.18.0%2Bcu121-cp311-cp311-win_amd64.whl
+# torchaudio @ https://download.pytorch.org/whl/cu121/torchaudio-2.3.0%2Bcu121-cp311-cp311-win_amd64.whl
